@@ -1,0 +1,7 @@
+<import src="product-list/product-list-template.wxml" />
+<view class="container">
+  <view class="">
+    <template  is="product-list-template">  </template>
+  </view>
+</view>
+

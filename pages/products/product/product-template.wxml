@@ -1,0 +1,13 @@
+<template name="product-template">123
+<view class="brand_item">
+            <navigator url="">
+                <image src="{{prod.pic}}" class="pic"></image>
+                <view class="right_cont">
+               
+                    <text class="name">{{prod.name}}</text>
+    
+                    <text class="price">￥{{prod.price}}元/{{prod.unit}}</text>
+                </view>
+            </navigator>
+  </view>
+</template>

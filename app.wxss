@@ -1,0 +1,24 @@
+
+@import "./style/layout.wxss";
+text{
+    font-family: MicroSoft Yahei;
+    font-size: 24rpx;
+    color: #666;
+}
+
+input{
+    font-family: MicroSoft YaHei;
+}
+
+
+.container {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+page {
+    background-color: #F2f2f2;
+}

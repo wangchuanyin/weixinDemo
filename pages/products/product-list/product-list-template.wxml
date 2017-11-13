@@ -1,0 +1,18 @@
+
+<!--product-list-template.wxml-->
+<!--<import src="./product/product-template.wxml"/>-->
+
+<template name="product-list-template">
+<text>xxxxx222</text>
+</template>
+<view class="classname">
+
+
+<!--<block wx:for="{{productList}}"  wx:for-item="prod">
+
+<template is="product-template" data="{{...prod}}"/>
+
+</block>-->
+
+
+</view>
